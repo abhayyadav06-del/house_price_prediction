@@ -7,3 +7,7 @@ st.title("🏠 House Price Prediction")
 st.write("Welcome to the House Price Prediction App")
 
 st.success("Deployment is working successfully!")
+import streamlit as st
+
+st.title("🏠 House Price Prediction")
+st.success("Deployment is working successfully!")
